@@ -1,0 +1,1 @@
+export const SERVER_URI = 'https://contract-ser.herokuapp.com/api';
